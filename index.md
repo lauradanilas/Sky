@@ -28,4 +28,4 @@ Kokkuvõtvalt panen siia ühe kassipildi, sest miks mitte. Nendest ei saa kunagi
 
 Ja kõige lõpetuseks ka üks teemakohane laul!
 
-[Klõpsa siia!]([https://www.youtube.com/watch?v=GRhr-MuAJ_s&ab_channel=DJhekki])
+[Klõpsa siia!](https://www.youtube.com/watch?v=GRhr-MuAJ_s&ab_channel=DJhekki)
