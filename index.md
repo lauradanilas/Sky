@@ -1,4 +1,4 @@
-# ***◽️Tere tulemast!◽️***
+# ***◽️Tere, hea külastaja!◽️***
 
 See leht on loodud aine "Digitaalne maailmapilt" raames. Tegemist on katsetusega lihtsa kodulehe loomiseks. Ma endale ei hakka kodulehekülge tegema, aga teeksin selle lihtsalt toreda näitena. 
 
