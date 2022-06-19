@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Tere tulemast!
 
-You can use the [editor on GitHub](https://github.com/lauradanilas/Sky/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+See leht on loodud aine "Digitaalne maailmapilt" raames. Tegemist on katsetusega lihtsa kodulehe loomiseks. Ma endale ei hakka kodulehekülge tegema, aga teeksin selle lihtsalt toreda näitena. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ütleme nii, et ega siit lehelt midagi maailmamuutvat ei leia, aga tore vaadata ikka. 
 
-### Markdown
+### Siit edasi võiks minna sisu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Siia võib kirjutada igasuguseid asju. Tõsi on aga see, et tihtipeale inimesed loevad algust ja lõppu ja tegelikult siia ei vaatagi. 
 
-```markdown
-Syntax highlighted code block
+# Varsti tuleb suvi, seega kirjutan siia asjad, mida võiks suvel teha. 
+- ujuda
+- reisida
+- mõnel toredal kontserdil/festivalil käia
+- lihtsalt puhata
 
-# Header 1
-## Header 2
-### Header 3
+## Kui aga juhtub, et on halb ilm, siis soovitaksin:
+- raamatut lugeda
+- kokata
+- teha suurpuhastust
+- valmistuda sügissemestriks (alustada näiteks lõputööga)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Kokkuvõtvalt panen siia ühe kassipildi, sest miks mitte. Nendest ei saa kunagi küllalt. 
 
-**Bold** and _Italic_ and `Code` text
+![kiisu](https://user-images.githubusercontent.com/75254607/174497990-b9ddb880-b3e4-4ba3-ac4e-82f4e868dec3.jpeg)
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Ja kõige lõpetuseks ka üks teemakohane laul!
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lauradanilas/Sky/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Klõpsa siia!]([https://www.youtube.com/watch?v=GRhr-MuAJ_s&ab_channel=DJhekki])
