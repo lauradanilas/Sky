@@ -15,10 +15,10 @@ Siia võib kirjutada igasuguseid asju. Tõsi on aga see, et tihtipeale inimesed 
 - lihtsalt puhata
 
 ## Kui aga juhtub, et on halb ilm, siis soovitaksin:
-- raamatut lugeda
-- kokata
-- teha suurpuhastust
-- valmistuda sügissemestriks (alustada näiteks lõputööga)
+1. raamatut lugeda
+2. kokata
+3. teha suurpuhastust
+4. valmistuda sügissemestriks (alustada näiteks lõputööga)
 
 
 Kokkuvõtvalt panen siia ühe kassipildi, sest miks mitte. Nendest ei saa kunagi küllalt. 
@@ -26,6 +26,7 @@ Kokkuvõtvalt panen siia ühe kassipildi, sest miks mitte. Nendest ei saa kunagi
 ![kiisu](https://user-images.githubusercontent.com/75254607/174497990-b9ddb880-b3e4-4ba3-ac4e-82f4e868dec3.jpeg)
 
 
-**Ja kõige lõpetuseks ka üks teemakohane laul!**
+***Ja kõige lõpetuseks ka üks teemakohane laul!***
+> Suvi - see on aeg, kus selle tegemiseks, milleks talvel oli liiga külm, on liiga palav. -Mark Twain
 
 [Klõpsa siia!](https://www.youtube.com/watch?v=GRhr-MuAJ_s&ab_channel=DJhekki)
