@@ -26,6 +26,6 @@ Kokkuvõtvalt panen siia ühe kassipildi, sest miks mitte. Nendest ei saa kunagi
 ![kiisu](https://user-images.githubusercontent.com/75254607/174497990-b9ddb880-b3e4-4ba3-ac4e-82f4e868dec3.jpeg)
 
 
-Ja kõige lõpetuseks ka üks teemakohane laul!
+**Ja kõige lõpetuseks ka üks teemakohane laul!**
 
 [Klõpsa siia!](https://www.youtube.com/watch?v=GRhr-MuAJ_s&ab_channel=DJhekki)
