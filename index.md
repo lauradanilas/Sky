@@ -1,4 +1,4 @@
-## Tere tulemast!
+## ◽️Tere tulemast!◽️
 
 See leht on loodud aine "Digitaalne maailmapilt" raames. Tegemist on katsetusega lihtsa kodulehe loomiseks. Ma endale ei hakka kodulehekülge tegema, aga teeksin selle lihtsalt toreda näitena. 
 
@@ -8,7 +8,7 @@ See leht on loodud aine "Digitaalne maailmapilt" raames. Tegemist on katsetusega
 
 Siia võib kirjutada igasuguseid asju. Tõsi on aga see, et tihtipeale inimesed loevad algust ja lõppu ja tegelikult siia ei vaatagi. 
 
-# Varsti tuleb suvi, seega kirjutan siia asjad, mida võiks suvel teha. 
+# ◽️ Varsti tuleb suvi, seega kirjutan siia asjad, mida võiks suvel teha ◽️
 - ujuda
 - reisida
 - mõnel toredal kontserdil/festivalil käia
