@@ -29,6 +29,6 @@ Siia võib kirjutada igasuguseid asju. Tõsi on aga see, et tihtipeale inimesed 
 ***◽️Ja kõige lõpetuseks ka üks teemakohane laul!◽️***
 [Klõpsa siia!](https://www.youtube.com/watch?v=GRhr-MuAJ_s&ab_channel=DJhekki)
 
-> **Suvi - see on aeg, kus selle tegemiseks, milleks talvel oli liiga külm, on liiga palav. -Mark Twain-**
+> **Suvi - see on aeg, kus selle tegemiseks, milleks talvel oli liiga külm, on liiga palav. Mark Twain**
 
 
