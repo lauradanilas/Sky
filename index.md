@@ -27,6 +27,7 @@ Kokkuvõtvalt panen siia ühe kassipildi, sest miks mitte. Nendest ei saa kunagi
 
 
 ***Ja kõige lõpetuseks ka üks teemakohane laul!***
-> Suvi - see on aeg, kus selle tegemiseks, milleks talvel oli liiga külm, on liiga palav. -Mark Twain
+> Suvi - see on aeg, kus selle tegemiseks, milleks talvel oli liiga külm, on liiga palav. 
+> -Mark Twain-
 
 [Klõpsa siia!](https://www.youtube.com/watch?v=GRhr-MuAJ_s&ab_channel=DJhekki)
